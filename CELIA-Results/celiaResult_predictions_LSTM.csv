@@ -1,4 +1,4 @@
-,predictedUtility,realUtility,award,negativeAward,lostUtility,shouldHaveUpdated,performedUpdate
+,predictedUtility,realUtility,reward,negativeReward,lostUtility,shouldHaveUpdated,performedUpdate
 0,239.93887057417922,221.87177390476694,67.87177390476694,0.0,0.0,1.0,1.0
 1,251.4453735861035,241.5220863135795,87.5220863135795,0.0,0.0,1.0,1.0
 2,227.16901068174224,223.1922365043557,69.19223650435569,0.0,0.0,1.0,1.0
