@@ -1,0 +1,2 @@
+,predictionType,utilDif,reward,negativeReward,numOfUpdates,lostUtil,wrongDecisions,correctDecisions,decisionShouldHaveDid,decisionShouldHaveDidNot,decisionNotHaveDid,decisionNotHaveDidNot
+0,noping_normalized_tva_server_1_tactic_1_test_predictions_timestamp.csv,33671448.70864152,155319426.62116125,0.0,2535,0.0,0,2603,2535,0,0,68
