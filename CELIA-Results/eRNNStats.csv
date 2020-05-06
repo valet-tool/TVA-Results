@@ -1,2 +1,6 @@
 ,predictionType,utilDif,reward,negativeReward,numOfUpdates,lostUtil,wrongDecisions,correctDecisions,decisionShouldHaveDid,decisionShouldHaveDidNot,decisionNotHaveDid,decisionNotHaveDidNot
-0,noping_normalized_tva_server_1_tactic_1_test_predictions_timestamp.csv,33671448.70864152,155319426.62116125,0.0,2535,0.0,0,2603,2535,0,0,68
+0,noping_normalized_server_1_tactic_1_validation.csv,55542.892047309295,156324.68121690518,1299.6872024152115,911,6438.748902691337,515,2089,910,514,1,1179
+1,ping_normalized_server_3_tactic_1_validation.csv,2.21e+52,290355.2336137402,2.21e+52,643,2.21e+52,1364,1241,643,1364,0,598
+2,noping_normalized_server_3_tactic_1_validation.csv,6.600000000000001e+51,283966.2827411012,6.600000000000001e+51,1275,6.600000000000001e+51,330,2275,1217,272,58,1058
+3,ping_normalized_server_1_tactic_1_validation.csv,31502.52596298821,155027.42156153667,401.2370504585953,1023,2990.2987507347175,260,2344,1022,259,1,1322
+4,ping_normalized_server_2_tactic_1_validation.csv,60330.45547805839,113320.27282014965,3061.3132638309417,800,10681.31326383093,762,1842,800,762,0,1042
