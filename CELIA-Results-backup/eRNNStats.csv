@@ -1,5 +1,5 @@
 ,predictionType,utilDif,reward,negativeReward,numOfUpdates,lostUtil,wrongDecisions,correctDecisions,decisionShouldHaveDid,decisionShouldHaveDidNot,decisionNotHaveDid,decisionNotHaveDidNot
-0,noping_normalized_server_2_tactic_1_validation.csv,14496804.827077232,147564841.26774693,80308.68607994424,1332,651042.0094721555,103,2500,1289,60,43,1211
+0,noping_normalized_server_2_tactic_1_validation.csv,0.0,0.0,0.0,0,0.0,0,2603,0,0,0,2603
 1,noping_normalized_server_1_tactic_1_validation.csv,12881540.065352663,149926991.7298465,217773.71729178986,1096,553526.3430130299,60,2544,1071,35,25,1473
 2,ping_normalized_server_3_tactic_1_validation.csv,1.79e+52,1.18e+52,6.100000000000001e+51,1091,6.100000000000001e+51,302,2302,952,163,139,1350
 3,noping_normalized_server_3_tactic_1_validation.csv,1.79e+52,1.18e+52,6.100000000000001e+51,1121,6.100000000000001e+51,286,2318,962,127,159,1356
